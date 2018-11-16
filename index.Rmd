@@ -1,4 +1,8 @@
-![](Logo_LabPUCP.png)
+
+<center>
+<img src="https://github.com/Reproducibilidad/herramientasDataScience/raw/master/Logo_LabPUCP.png" style="width: 300px;"/>
+</center>
+
 
 <center> <h1>Herramientas de la Ciencia de Datos <br></br>para la Investigación Social Reproducible</h1> </center>
 
